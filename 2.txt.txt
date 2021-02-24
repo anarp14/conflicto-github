@@ -1,0 +1,10 @@
+Una aplicación informática requiere que su información esté estructurada de un modo que
+entienda para poder gestionarla. Cuando los desarrolladores queremos crear una aplicación
+usamos y generamos distinto tipo de información: código fuente, ficheros de configuración,
+ficheros binarios de datos, librerías, ficheros ejecutables, etc. A veces nos centramos
+únicamente en el tipo de tecnología que vamos a usar pero nos despreocupamos a la hora de
+crear infinidad de recursos propios, de ficheros y de código fuente para crear nuestra
+aplicación pero sin ningún orden u organización.
+Un framework es un esquema (una estructura, un patrón) para el desarrollo de una aplicación.
+Se puede entender como una estructura conceptual y tecnológica que nos ayuda a través de
+un conjunto de herramientas, librerías, módulos, para crear aplicaciones de un tipo concreto.
